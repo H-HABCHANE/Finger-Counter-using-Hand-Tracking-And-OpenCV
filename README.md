@@ -11,6 +11,3 @@ the project detects the counting fingers for the right hand and count from (0-7)
 ![](fingerCounting.png)
 
 to run the project execute the fingerCountingProject.py script
-
-# explanation video
-https://www.youtube.com/watch?v=haK1UOejUgg
