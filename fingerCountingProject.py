@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  3 23:09:19 2021
 
-@author: amine gasa
-"""
 import cv2
 import os
 import time
