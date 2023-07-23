@@ -1,4 +1,4 @@
-# Finger-Counter-using-Hand-Tracking-And-Open-cv
+# Finger-Counter-using-Hand-Tracking-And-OpenCV
 finger counting based on open-cv and hand tracking in real time
 
 the important library :
